@@ -1,0 +1,26 @@
+{
+  "companies": [
+    { "name": "Postman",     "ats": "greenhouse", "slug": "postman" },
+    { "name": "Groww",       "ats": "greenhouse", "slug": "groww" },
+    { "name": "Razorpay",    "ats": "greenhouse", "slug": "razorpaysoftwareprivatelimited" },
+    { "name": "PhonePe",     "ats": "greenhouse", "slug": "phonepe" },
+    { "name": "Remote.com",  "ats": "greenhouse", "slug": "remotecom" },
+    { "name": "Turing",      "ats": "greenhouse", "slug": "turing" },
+    { "name": "Observe.AI",  "ats": "greenhouse", "slug": "observeai" },
+    { "name": "CRED",        "ats": "lever",      "slug": "cred" },
+    { "name": "Meesho",      "ats": "lever",      "slug": "meesho" },
+    { "name": "Netomi",      "ats": "lever",      "slug": "netomi" },
+    { "name": "Nium",        "ats": "lever",      "slug": "nium" },
+    { "name": "Atlan",       "ats": "ashby",      "slug": "atlan" }
+  ],
+  "title_keywords": [
+    "project manager", "project coordinator", "program manager",
+    "implementation", "delivery manager", "delivery lead",
+    "business analyst", "onboarding", "customer success",
+    "consultant", "scrum master", "project management"
+  ],
+  "locations": [
+    "bengaluru", "bangalore", "noida", "gurugram", "gurgaon",
+    "delhi", "ncr", "india", "apac"
+  ]
+}
