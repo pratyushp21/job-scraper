@@ -112,7 +112,8 @@ tracker. What's left for you:
 
 1. Create an empty repo on github.com (e.g. `job-scrapper`) — no README/license
    (they already exist here).
-2. Connect and push:
+2. Connect and push (if a remote is already configured — check with
+   `git remote -v` — skip the `remote add` line):
    ```bash
    cd "job scrapper"
    git remote add origin https://github.com/<your-username>/job-scrapper.git
