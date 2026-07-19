@@ -1,18 +1,34 @@
 {
   "companies": [
-    { "name": "Postman",     "ats": "greenhouse", "slug": "postman" },
-    { "name": "Groww",       "ats": "greenhouse", "slug": "groww" },
-    { "name": "Razorpay",    "ats": "greenhouse", "slug": "razorpaysoftwareprivatelimited" },
-    { "name": "PhonePe",     "ats": "greenhouse", "slug": "phonepe" },
-    { "name": "Remote.com",  "ats": "greenhouse", "slug": "remotecom" },
-    { "name": "Turing",      "ats": "greenhouse", "slug": "turing" },
-    { "name": "Observe.AI",  "ats": "greenhouse", "slug": "observeai" },
-    { "name": "CRED",        "ats": "lever",      "slug": "cred" },
-    { "name": "Meesho",      "ats": "lever",      "slug": "meesho" },
-    { "name": "Netomi",      "ats": "lever",      "slug": "netomi" },
-    { "name": "Nium",        "ats": "lever",      "slug": "nium" },
-    { "name": "Atlan",       "ats": "ashby",      "slug": "atlan" }
+    { "name": "Postman",     "ats": "greenhouse",     "slug": "postman" },
+    { "name": "Groww",       "ats": "greenhouse",     "slug": "groww" },
+    { "name": "Razorpay",    "ats": "greenhouse",     "slug": "razorpaysoftwareprivatelimited" },
+    { "name": "PhonePe",     "ats": "greenhouse",     "slug": "phonepe" },
+    { "name": "Remote.com",  "ats": "greenhouse",     "slug": "remotecom" },
+    { "name": "Turing",      "ats": "greenhouse",     "slug": "turing" },
+    { "name": "Observe.AI",  "ats": "greenhouse",     "slug": "observeai" },
+    { "name": "ClearTax",    "ats": "greenhouse",     "slug": "clear" },
+    { "name": "Zenoti",      "ats": "greenhouse",     "slug": "zenoti" },
+    { "name": "Druva",       "ats": "greenhouse",     "slug": "druva" },
+    { "name": "CRED",        "ats": "lever",          "slug": "cred" },
+    { "name": "Meesho",      "ats": "lever",          "slug": "meesho" },
+    { "name": "Netomi",      "ats": "lever",          "slug": "netomi" },
+    { "name": "Nium",        "ats": "lever",          "slug": "nium" },
+    { "name": "Freshworks",  "ats": "lever",          "slug": "freshworks" },
+    { "name": "Atlan",       "ats": "ashby",          "slug": "atlan" },
+    { "name": "ServiceNow",  "ats": "smartrecruiters", "slug": "ServiceNow" },
+    { "name": "Visa",        "ats": "smartrecruiters", "slug": "Visa" },
+    { "name": "Swiggy",      "ats": "smartrecruiters", "slug": "Swiggy" }
   ],
+  "sources": {
+    "remotive": true,
+    "remoteok": true,
+    "adzuna": {
+      "country": "in",
+      "cities": ["Bengaluru", "Noida", "Gurugram", "Delhi"],
+      "search_terms": ["project coordinator", "project manager", "implementation specialist", "business analyst"]
+    }
+  },
   "title_keywords": [
     "project manager", "project coordinator", "program manager",
     "implementation", "delivery manager", "delivery lead",
@@ -22,5 +38,6 @@
   "locations": [
     "bengaluru", "bangalore", "noida", "gurugram", "gurgaon",
     "delhi", "ncr", "india", "apac"
-  ]
+  ],
+  "remote_locations_ok": ["india", "worldwide", "anywhere", "apac", "asia"]
 }

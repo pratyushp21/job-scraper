@@ -1,70 +1,57 @@
 # Job Scrapper
 
-Pulls live job postings from companies' own public ATS APIs (Greenhouse, Lever,
-Ashby) — the same data shown on their careers pages, so this is fully
-above-board. Filters for project management / implementation / delivery /
-BA-type roles in Bengaluru, Noida/Gurugram, Delhi-NCR, and remote-India.
+An open job-feed aggregator for project management / implementation /
+delivery / BA roles, built on **public ATS and job-board APIs** — the same
+data companies publish on their own careers pages. No LinkedIn/Naukri
+scraping, no logins, nothing against anyone's terms.
 
-No installation needed — everything runs on plain Python 3 (already on macOS).
+**Sources:** Greenhouse, Lever, Ashby, SmartRecruiters, Workable, Recruitee
+company boards (19 verified companies included) + Remotive and RemoteOK
+remote-job feeds + optional Adzuna aggregator (free API key).
 
-## Daily workflow (5 minutes)
+**New here? Read [SETUP.md](SETUP.md)** — it walks through everything,
+including where to paste the Adzuna keys and how to host the dashboard free
+on GitHub Pages.
+
+## Daily use
 
 ```bash
-cd "job scrapper"
-
-# 1. Fetch new jobs — only ones you haven't seen before are shown
-python3 scraper.py
-
-# 2. When she applies to one, log it in the tracker with one command
-python3 scraper.py --track "https://job-boards.greenhouse.io/....../jobs/12345"
-
-# 3. Draft a personalized outreach message + resume-tailoring notes for a job
-python3 draft_outreach.py "https://.../jobs/12345" --contact "Priya Sharma, TA Lead"
+python3 scraper.py --export-json          # fetch new jobs + follow-up reminders
+python3 scraper.py --track "<job url>"    # log an application in the tracker
+python3 draft_outreach.py "<job url>"     # tailored outreach draft for a job
 ```
 
-## Files
+## What's inside
 
-| File | What it is |
+| Path | What it is |
 |---|---|
-| `config.json` | Companies to watch, title keywords, location filters — edit freely |
-| `data/jobs.csv` | Every matching job found, deduped, append-only |
-| `data/tracker.csv` | Her application tracker — open in Excel/Numbers/Sheets and edit |
-| `resume.md` | **You add this**: paste her resume as plain text (needed for drafts) |
-| `drafts/` | Generated outreach messages / prompts land here |
+| `scraper.py` | Fetches all sources, filters, dedupes, detects closed jobs, reminds about follow-ups |
+| `config.json` | Companies, keywords, locations, Adzuna search terms — edit freely |
+| `draft_outreach.py` | Drafts a personalized outreach message + resume tailoring notes per job |
+| `site/` | Interactive dashboard (search/filter UI) — deployable to GitHub Pages/Netlify |
+| `data/jobs.csv` | All jobs found, deduped, with active/closed status |
+| `data/tracker.csv` | Application tracker (private, gitignored) |
+| `.github/workflows/scrape.yml` | Daily cloud refresh + free hosting via GitHub Actions/Pages |
 
-## Google Sheets
+## Adding companies
 
-Simplest reliable route: in a Google Sheet, **File → Import → Upload →
-`jobs.csv`** (choose "Replace current sheet"). Re-import after each run, or
-keep the tracker itself as a Google Sheet and use `jobs.csv` just as the feed
-of new roles. Direct API sync to Sheets needs a Google Cloud service-account
-key — doable later if the manual import gets annoying; ask Claude Code to add
-it when you're ready.
+Find the company's careers page, identify its ATS from the URL, verify with
+curl, add to `config.json`:
 
-## Adding more companies
+| ATS | Test URL |
+|---|---|
+| Greenhouse | `https://boards-api.greenhouse.io/v1/boards/SLUG/jobs` |
+| Lever | `https://api.lever.co/v0/postings/SLUG?mode=json` |
+| Ashby | `https://api.ashbyhq.com/posting-api/job-board/SLUG` |
+| SmartRecruiters | `https://api.smartrecruiters.com/v1/companies/SLUG/postings` |
+| Workable | POST `https://apply.workable.com/api/v3/accounts/SLUG/jobs` |
+| Recruitee | `https://SLUG.recruitee.com/api/offers/` |
 
-Every company on the current list was verified live. To add one, find which
-ATS its careers page uses (the URL gives it away) and test:
+If it returns JSON with jobs, add `{ "name": "...", "ats": "...", "slug": "..." }`.
 
-- Careers URL contains `greenhouse.io` → `curl "https://boards-api.greenhouse.io/v1/boards/SLUG/jobs"`
-- Contains `lever.co` → `curl "https://api.lever.co/v0/postings/SLUG?mode=json"`
-- Contains `ashbyhq.com` → `curl "https://api.ashbyhq.com/posting-api/job-board/SLUG"`
+## Privacy
 
-The SLUG is in the careers-page URL (e.g. `job-boards.greenhouse.io/postman`
-→ slug `postman`). If the curl returns JSON, add
-`{ "name": "...", "ats": "...", "slug": "..." }` to `config.json`. Note some
-big names (Swiggy, Zoho, Freshworks) use custom portals with no public API —
-those you check manually or ask Claude Code to add a custom fetcher for.
+`resume.md`, `.env` (API keys), `drafts/`, and the tracker are gitignored —
+they never leave your machine. Only public job listings are ever published.
 
-## Scheduling (optional)
-
-To run it automatically every morning at 9:00 and log the output:
-
-```bash
-crontab -e
-# add this line:
-0 9 * * * cd "/Users/pratyushpandey/Documents/Cluade Code/job scrapper" && /usr/bin/python3 scraper.py >> data/run.log 2>&1
-```
-
-Then each morning just open `data/run.log` or re-run `python3 scraper.py`
-(it prints nothing new if there's nothing new).
+MIT licensed.

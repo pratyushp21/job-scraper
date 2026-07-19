@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Job Feed — Project &amp; Implementation Roles</title>
+<style>
+  :root {
+    --bg: #f6f7f9; --card: #ffffff; --text: #1a202c; --muted: #64748b;
+    --accent: #2563eb; --accent-soft: #dbeafe; --border: #e2e8f0;
+    --new: #059669; --new-soft: #d1fae5;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0f172a; --card: #1e293b; --text: #e2e8f0; --muted: #94a3b8;
+      --accent: #60a5fa; --accent-soft: #1e3a5f; --border: #334155;
+      --new: #34d399; --new-soft: #064e3b;
+    }
+  }
+  * { box-sizing: border-box; margin: 0; }
+  body { font: 15px/1.5 -apple-system, "Segoe UI", Roboto, sans-serif;
+         background: var(--bg); color: var(--text); padding: 24px 16px 60px; }
+  .wrap { max-width: 860px; margin: 0 auto; }
+  h1 { font-size: 22px; margin-bottom: 4px; }
+  .sub { color: var(--muted); font-size: 13px; margin-bottom: 20px; }
+  .controls { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; }
+  input[type=search], select {
+    padding: 8px 12px; border: 1px solid var(--border); border-radius: 8px;
+    background: var(--card); color: var(--text); font-size: 14px;
+  }
+  input[type=search] { flex: 1 1 220px; }
+  .stats { font-size: 13px; color: var(--muted); margin-bottom: 12px; }
+  .job { background: var(--card); border: 1px solid var(--border);
+         border-radius: 10px; padding: 14px 16px; margin-bottom: 10px;
+         display: flex; gap: 12px; align-items: flex-start; }
+  .job-main { flex: 1; min-width: 0; }
+  .job h3 { font-size: 15px; margin-bottom: 2px; }
+  .job h3 a { color: var(--text); text-decoration: none; }
+  .job h3 a:hover { color: var(--accent); }
+  .meta { font-size: 13px; color: var(--muted); }
+  .badges { display: flex; flex-direction: column; gap: 6px; align-items: flex-end; flex-shrink: 0; }
+  .badge { font-size: 11px; font-weight: 600; padding: 2px 8px; border-radius: 99px; white-space: nowrap; }
+  .b-new { background: var(--new-soft); color: var(--new); }
+  .b-src { background: var(--accent-soft); color: var(--accent); }
+  .apply { display: inline-block; margin-top: 8px; font-size: 13px; font-weight: 600;
+           color: var(--accent); text-decoration: none; }
+  .empty { text-align: center; color: var(--muted); padding: 40px 0; }
+  footer { margin-top: 30px; font-size: 12px; color: var(--muted); text-align: center; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Job Feed</h1>
+  <div class="sub">Project management, implementation &amp; delivery roles — pulled from public
+    company career-board APIs. Updated <span id="generated">…</span>.</div>
+
+  <div class="controls">
+    <input type="search" id="q" placeholder="Search title, company, location…">
+    <select id="company"><option value="">All companies</option></select>
+    <select id="source"><option value="">All sources</option></select>
+    <select id="age">
+      <option value="">Any time</option>
+      <option value="3">Found in last 3 days</option>
+      <option value="7">Found in last 7 days</option>
+      <option value="30">Found in last 30 days</option>
+    </select>
+  </div>
+
+  <div class="stats" id="stats"></div>
+  <div id="list"></div>
+  <footer>Data comes from Greenhouse / Lever / Ashby / SmartRecruiters public job-board APIs,
+    Remotive, RemoteOK and Adzuna. Listings link to the company's own application page.</footer>
+</div>
+
+<script>
+let jobs = [];
+const $ = id => document.getElementById(id);
+
+function daysAgo(iso) {
+  if (!iso) return 9999;
+  return Math.floor((Date.now() - new Date(iso + "T00:00:00")) / 864e5);
+}
+
+function render() {
+  const q = $("q").value.toLowerCase();
+  const co = $("company").value, src = $("source").value, age = $("age").value;
+  const shown = jobs.filter(j =>
+    (!q || (j.title + " " + j.company + " " + j.location).toLowerCase().includes(q)) &&
+    (!co || j.company === co) && (!src || j.source === src) &&
+    (!age || daysAgo(j.date_found) <= +age));
+  $("stats").textContent = shown.length + " of " + jobs.length + " active jobs";
+  $("list").innerHTML = shown.length ? shown.map(j => `
+    <div class="job">
+      <div class="job-main">
+        <h3><a href="${j.url}" target="_blank" rel="noopener">${j.title}</a></h3>
+        <div class="meta">${j.company}${j.location ? " · " + j.location : ""}</div>
+        <a class="apply" href="${j.url}" target="_blank" rel="noopener">View &amp; apply →</a>
+      </div>
+      <div class="badges">
+        ${daysAgo(j.date_found) <= 3 ? '<span class="badge b-new">NEW</span>' : ""}
+        <span class="badge b-src">${j.source}</span>
+      </div>
+    </div>`).join("")
+    : '<div class="empty">No jobs match these filters.</div>';
+}
+
+fetch("jobs.json").then(r => r.json()).then(data => {
+  jobs = data.jobs;
+  $("generated").textContent = data.generated;
+  const fill = (id, key) => {
+    [...new Set(jobs.map(j => j[key]))].sort().forEach(v => {
+      const o = document.createElement("option"); o.value = o.textContent = v;
+      $(id).appendChild(o);
+    });
+  };
+  fill("company", "company"); fill("source", "source");
+  render();
+}).catch(() => {
+  $("list").innerHTML = '<div class="empty">jobs.json not found — run<br><code>python3 scraper.py --export-json</code> first.</div>';
+});
+
+["q", "company", "source", "age"].forEach(id => {
+  $(id).addEventListener("input", render);
+});
+</script>
+</body>
+</html>

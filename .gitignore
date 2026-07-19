@@ -1,0 +1,11 @@
+# Personal data — never commit
+.env
+resume.md
+drafts/
+data/tracker.csv
+data/run.log
+linkedin-post.md
+
+# macOS noise
+.DS_Store
+__pycache__/
