@@ -1862,6 +1862,17 @@
   },
   {
    "date_found": "2026-07-19",
+   "company": "JMT Consultants",
+   "title": "Project Manager (Night Shift)",
+   "location": "Noida, Ghaziabad",
+   "url": "https://www.adzuna.in/details/5752315266",
+   "source": "adzuna",
+   "posted_at": "2026-06-05",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-07-19",
    "company": "Insights Opinion",
    "title": "Project Manager - CAWI",
    "location": "Noida, Ghaziabad",
@@ -2687,6 +2698,17 @@
   },
   {
    "date_found": "2026-07-19",
+   "company": "Datamatics Technologies",
+   "title": "Project Manager",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5797374775",
+   "source": "adzuna",
+   "posted_at": "2026-07-12",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-07-19",
    "company": "DXC Technology",
    "title": "Project Manager - Treasury [Bangalore]",
    "location": "Bangalore, Karnataka",
@@ -3474,28 +3496,6 @@
    "url": "https://www.adzuna.in/details/5503836753",
    "source": "adzuna",
    "posted_at": "2025-11-20",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-07-19",
-   "company": "JMT Consultants",
-   "title": "Project Manager (Night Shift)",
-   "location": "Noida, Ghaziabad",
-   "url": "https://www.adzuna.in/details/5752315266",
-   "source": "adzuna",
-   "posted_at": "2026-06-05",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-07-19",
-   "company": "Datamatics Technologies",
-   "title": "Project Manager",
-   "location": "Bangalore, Karnataka",
-   "url": "https://www.adzuna.in/details/5797374775",
-   "source": "adzuna",
-   "posted_at": "2026-07-12",
    "active": "yes",
    "match_score": ""
   },
