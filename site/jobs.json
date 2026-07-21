@@ -1,6 +1,28 @@
 {
- "generated": "2026-07-20",
+ "generated": "2026-07-21",
  "jobs": [
+  {
+   "date_found": "2026-07-21",
+   "company": "Zenoti",
+   "title": "Senior Implementation Consultant",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://job-boards.greenhouse.io/zenoti/jobs/7765726003",
+   "source": "greenhouse",
+   "posted_at": "2026-07-20",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-07-21",
+   "company": "ServiceNow",
+   "title": "Technology Consultant",
+   "location": "Bangalore, in",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000138781190",
+   "source": "smartrecruiters",
+   "posted_at": "2026-07-21",
+   "active": "yes",
+   "match_score": ""
+  },
   {
    "date_found": "2026-07-19",
    "company": "r3 Consultant",
@@ -3504,17 +3526,6 @@
    "company": "Zenoti",
    "title": "Implementation Consultant",
    "location": "Hyderabad, Telangana, India",
-   "url": "https://job-boards.greenhouse.io/zenoti/jobs/7578192003",
-   "source": "greenhouse",
-   "posted_at": "2026-07-13",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-07-18",
-   "company": "Zenoti",
-   "title": "Implementation Consultant",
-   "location": "Hyderabad, Telangana, India",
    "url": "https://job-boards.greenhouse.io/zenoti/jobs/7739178003",
    "source": "greenhouse",
    "posted_at": "2026-07-03",
@@ -3540,17 +3551,6 @@
    "url": "https://job-boards.greenhouse.io/zenoti/jobs/7790013003",
    "source": "greenhouse",
    "posted_at": "2026-07-17",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-07-18",
-   "company": "Zenoti",
-   "title": "Senior Product Specialist - Customer Onboarding",
-   "location": "Hyderabad, Telangana, India",
-   "url": "https://job-boards.greenhouse.io/zenoti/jobs/7608201003",
-   "source": "greenhouse",
-   "posted_at": "2026-06-09",
    "active": "yes",
    "match_score": ""
   },
