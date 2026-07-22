@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-21",
+ "generated": "2026-07-22",
  "jobs": [
   {
    "date_found": "2026-07-21",
@@ -3628,28 +3628,6 @@
    "url": "https://jobs.lever.co/netomi/fc5e1101-ed93-4a94-ba18-b81a0438a086",
    "source": "lever",
    "posted_at": "",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-07-08",
-   "company": "Remote.com",
-   "title": "Onboarding Operations Specialist - APAC",
-   "location": "Remote-APAC",
-   "url": "https://job-boards.greenhouse.io/remotecom/jobs/7747901003",
-   "source": "greenhouse",
-   "posted_at": "2026-05-26",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-07-08",
-   "company": "Remote.com",
-   "title": "Onboarding Operations Specialist - APAC",
-   "location": "Remote-APAC",
-   "url": "https://job-boards.greenhouse.io/remotecom/jobs/7704780003",
-   "source": "greenhouse",
-   "posted_at": "2026-05-26",
    "active": "yes",
    "match_score": ""
   }
