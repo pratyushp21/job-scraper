@@ -18,7 +18,7 @@ This fetches all sources, writes `data/jobs.csv`, creates `data/tracker.csv`,
 and always regenerates `site/jobs.json` — so the dashboard is up to date
 after every run, automatically.
 
-## 3. Add her resume (needed for outreach drafts)
+## 3. Add resume (needed for outreach drafts)
 
 Create `resume.md` in this folder and paste her resume as plain text.
 This file stays local — it is gitignored and never uploaded anywhere.
