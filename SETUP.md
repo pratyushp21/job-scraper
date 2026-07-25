@@ -4,7 +4,7 @@ Follow this top to bottom once; after that daily use is a single command.
 
 ## 1. Requirements
 
-- macOS or Linux with Python 3.9+ (`python3 --version` — already on your Mac).
+- macOS or Linux with Python 3.9+ (`python3 --version`).
 - No packages to install. Everything uses the Python standard library.
 
 ## 2. First run
