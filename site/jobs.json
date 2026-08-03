@@ -1,6 +1,72 @@
 {
- "generated": "2026-08-02",
+ "generated": "2026-08-03",
  "jobs": [
+  {
+   "date_found": "2026-08-03",
+   "company": "CareerXperts Consulting",
+   "title": "Senior Project Manager",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/land/ad/5825674980",
+   "source": "adzuna",
+   "posted_at": "2026-08-02",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-08-03",
+   "company": "LTM",
+   "title": "Specialist - Package Implementation",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5826269109",
+   "source": "adzuna",
+   "posted_at": "2026-08-03",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-08-02",
+   "company": "UnitedHealth Group",
+   "title": "Project Manager",
+   "location": "Noida, Ghaziabad",
+   "url": "https://www.adzuna.in/details/5799534978",
+   "source": "adzuna",
+   "posted_at": "2026-07-14",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-08-02",
+   "company": "Trigent Software Private Limited",
+   "title": "Project Manager",
+   "location": "Richmond Town, Bangalore",
+   "url": "https://www.adzuna.in/details/5822594132",
+   "source": "adzuna",
+   "posted_at": "2026-07-31",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-08-02",
+   "company": "OutlierStudio",
+   "title": "Interior Design Project Coordinator",
+   "location": "New Delhi, Delhi",
+   "url": "https://www.adzuna.in/land/ad/5823898574",
+   "source": "adzuna",
+   "posted_at": "2026-08-01",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-08-02",
+   "company": "NetApp",
+   "title": "Business Analyst",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5806901536",
+   "source": "adzuna",
+   "posted_at": "2026-07-19",
+   "active": "yes",
+   "match_score": ""
+  },
   {
    "date_found": "2026-08-02",
    "company": "NTT",
@@ -14,21 +80,10 @@
   },
   {
    "date_found": "2026-08-02",
-   "company": "First Door Realty LLP",
-   "title": "Real Estate Sales Consultant",
-   "location": "Noida, Ghaziabad",
-   "url": "https://www.adzuna.in/land/ad/5823898424",
-   "source": "adzuna",
-   "posted_at": "2026-08-01",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-08-02",
-   "company": "OutlierStudio",
-   "title": "Interior Design Project Coordinator",
-   "location": "New Delhi, Delhi",
-   "url": "https://www.adzuna.in/land/ad/5823898574",
+   "company": "Metro Buildtech",
+   "title": "Project Management Intern",
+   "location": "South Delhi, Delhi",
+   "url": "https://www.adzuna.in/land/ad/5823898238",
    "source": "adzuna",
    "posted_at": "2026-08-01",
    "active": "yes",
@@ -47,17 +102,6 @@
   },
   {
    "date_found": "2026-08-02",
-   "company": "Trigent Software Private Limited",
-   "title": "Project Manager",
-   "location": "Richmond Town, Bangalore",
-   "url": "https://www.adzuna.in/details/5822594132",
-   "source": "adzuna",
-   "posted_at": "2026-07-31",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-08-02",
    "company": "Grafieks Analytics",
    "title": "Oracle Fusion Project Manager",
    "location": "Noida, Ghaziabad",
@@ -69,34 +113,12 @@
   },
   {
    "date_found": "2026-08-02",
-   "company": "UnitedHealth Group",
-   "title": "Project Manager",
+   "company": "First Door Realty LLP",
+   "title": "Real Estate Sales Consultant",
    "location": "Noida, Ghaziabad",
-   "url": "https://www.adzuna.in/details/5799534978",
-   "source": "adzuna",
-   "posted_at": "2026-07-14",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-08-02",
-   "company": "Metro Buildtech",
-   "title": "Project Management Intern",
-   "location": "South Delhi, Delhi",
-   "url": "https://www.adzuna.in/land/ad/5823898238",
+   "url": "https://www.adzuna.in/land/ad/5823898424",
    "source": "adzuna",
    "posted_at": "2026-08-01",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-08-02",
-   "company": "NetApp",
-   "title": "Business Analyst",
-   "location": "Bangalore, Karnataka",
-   "url": "https://www.adzuna.in/details/5806901536",
-   "source": "adzuna",
-   "posted_at": "2026-07-19",
    "active": "yes",
    "match_score": ""
   },
