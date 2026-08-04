@@ -1,14 +1,36 @@
 {
- "generated": "2026-08-03",
+ "generated": "2026-08-04",
  "jobs": [
   {
-   "date_found": "2026-08-03",
-   "company": "CareerXperts Consulting",
-   "title": "Senior Project Manager",
+   "date_found": "2026-08-04",
+   "company": "Zenoti",
+   "title": "Senior Implementation Consultant",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://job-boards.greenhouse.io/zenoti/jobs/7799421003",
+   "source": "greenhouse",
+   "posted_at": "2026-08-03",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-08-04",
+   "company": "Cognizant",
+   "title": "Business Analyst",
    "location": "Bangalore, Karnataka",
-   "url": "https://www.adzuna.in/land/ad/5825674980",
+   "url": "https://www.adzuna.in/details/5823363273",
    "source": "adzuna",
-   "posted_at": "2026-08-02",
+   "posted_at": "2026-08-01",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-08-04",
+   "company": "Innefu Labs Limited",
+   "title": "Business Analyst",
+   "location": "Maurya Enclave, North West Delhi",
+   "url": "https://www.adzuna.in/details/5826772660",
+   "source": "adzuna",
+   "posted_at": "2026-08-03",
    "active": "yes",
    "match_score": ""
   },
@@ -20,6 +42,17 @@
    "url": "https://www.adzuna.in/details/5826269109",
    "source": "adzuna",
    "posted_at": "2026-08-03",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-08-03",
+   "company": "CareerXperts Consulting",
+   "title": "Senior Project Manager",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/land/ad/5825674980",
+   "source": "adzuna",
+   "posted_at": "2026-08-02",
    "active": "yes",
    "match_score": ""
   },
@@ -5729,17 +5762,6 @@
    "url": "https://job-boards.greenhouse.io/zenoti/jobs/7739178003",
    "source": "greenhouse",
    "posted_at": "2026-07-03",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-07-18",
-   "company": "Zenoti",
-   "title": "Senior Implementation Consultant",
-   "location": "Hyderabad, Telangana, India",
-   "url": "https://job-boards.greenhouse.io/zenoti/jobs/7790013003",
-   "source": "greenhouse",
-   "posted_at": "2026-07-17",
    "active": "yes",
    "match_score": ""
   },
