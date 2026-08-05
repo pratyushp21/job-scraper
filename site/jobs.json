@@ -1,6 +1,72 @@
 {
- "generated": "2026-08-04",
+ "generated": "2026-08-05",
  "jobs": [
+  {
+   "date_found": "2026-08-05",
+   "company": "ServiceNow",
+   "title": "Technical Customer Success Manager (Cybersecurity) - Armis",
+   "location": "Bangalore, in",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000141447729",
+   "source": "smartrecruiters",
+   "posted_at": "2026-08-04",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-08-05",
+   "company": "Avistrat",
+   "title": "Project Manager (A&D)",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/land/ad/5827735784",
+   "source": "adzuna",
+   "posted_at": "2026-08-04",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-08-05",
+   "company": "HCLSoftware",
+   "title": "Project Manager",
+   "location": "Noida, Ghaziabad",
+   "url": "https://www.adzuna.in/land/ad/5827735776",
+   "source": "adzuna",
+   "posted_at": "2026-08-04",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-08-05",
+   "company": "WSP USA",
+   "title": "Principal Consultant - Project Management",
+   "location": "Noida, Ghaziabad",
+   "url": "https://www.adzuna.in/details/5798559392",
+   "source": "adzuna",
+   "posted_at": "2026-07-13",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-08-05",
+   "company": "TMF",
+   "title": "Project Manager",
+   "location": "Delhi, India",
+   "url": "https://www.adzuna.in/details/5827922586",
+   "source": "adzuna",
+   "posted_at": "2026-08-04",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-08-05",
+   "company": "Amazon",
+   "title": "Business Analyst",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5828761379",
+   "source": "adzuna",
+   "posted_at": "2026-08-05",
+   "active": "yes",
+   "match_score": ""
+  },
   {
    "date_found": "2026-08-04",
    "company": "Zenoti",
@@ -14,23 +80,23 @@
   },
   {
    "date_found": "2026-08-04",
-   "company": "Cognizant",
-   "title": "Business Analyst",
-   "location": "Bangalore, Karnataka",
-   "url": "https://www.adzuna.in/details/5823363273",
-   "source": "adzuna",
-   "posted_at": "2026-08-01",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-08-04",
    "company": "Innefu Labs Limited",
    "title": "Business Analyst",
    "location": "Maurya Enclave, North West Delhi",
    "url": "https://www.adzuna.in/details/5826772660",
    "source": "adzuna",
    "posted_at": "2026-08-03",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-08-04",
+   "company": "Cognizant",
+   "title": "Business Analyst",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5823363273",
+   "source": "adzuna",
+   "posted_at": "2026-08-01",
    "active": "yes",
    "match_score": ""
   },
