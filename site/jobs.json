@@ -1,12 +1,45 @@
 {
- "generated": "2026-08-10",
+ "generated": "2026-08-11",
  "jobs": [
   {
-   "date_found": "2026-08-10",
-   "company": "ISECURION",
-   "title": "Project Management Officer",
+   "date_found": "2026-08-11",
+   "company": "Mindtel",
+   "title": "Solar Project Manager (EPC/ MEGA WATT)",
+   "location": "New Delhi, Delhi",
+   "url": "https://www.adzuna.in/details/5836227878",
+   "source": "adzuna",
+   "posted_at": "2026-08-11",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-08-11",
+   "company": "Cognizant",
+   "title": "Program Manager",
    "location": "Bangalore, Karnataka",
-   "url": "https://www.adzuna.in/land/ad/5834649591",
+   "url": "https://www.adzuna.in/details/5802317251",
+   "source": "adzuna",
+   "posted_at": "2026-07-16",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-08-11",
+   "company": "Acme Services Private Limited",
+   "title": "Business Analyst",
+   "location": "Richmond Town, Bangalore",
+   "url": "https://www.adzuna.in/details/5830840549",
+   "source": "adzuna",
+   "posted_at": "2026-08-06",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-08-10",
+   "company": "NetApp",
+   "title": "Business Analyst",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5834385949",
    "source": "adzuna",
    "posted_at": "2026-08-09",
    "active": "yes",
@@ -25,45 +58,23 @@
   },
   {
    "date_found": "2026-08-10",
+   "company": "ISECURION",
+   "title": "Project Management Officer",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/land/ad/5834649591",
+   "source": "adzuna",
+   "posted_at": "2026-08-09",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-08-10",
    "company": "Energy ETA",
    "title": "IoT/HVAC Project Manager",
    "location": "Bangalore, Karnataka",
    "url": "https://www.adzuna.in/land/ad/5834882804",
    "source": "adzuna",
    "posted_at": "2026-08-10",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-08-10",
-   "company": "Beyond Border Consultants",
-   "title": "Solar Project Manager (EPC/ 10-15 MW)",
-   "location": "New Delhi, Delhi",
-   "url": "https://www.adzuna.in/details/5835185050",
-   "source": "adzuna",
-   "posted_at": "2026-08-10",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-08-10",
-   "company": "Cognizant",
-   "title": "Business Analyst",
-   "location": "Bangalore, Karnataka",
-   "url": "https://www.adzuna.in/details/5834376437",
-   "source": "adzuna",
-   "posted_at": "2026-08-09",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-08-10",
-   "company": "NetApp",
-   "title": "Business Analyst",
-   "location": "Bangalore, Karnataka",
-   "url": "https://www.adzuna.in/details/5834385949",
-   "source": "adzuna",
-   "posted_at": "2026-08-09",
    "active": "yes",
    "match_score": ""
   },
@@ -86,6 +97,28 @@
    "url": "https://www.adzuna.in/details/5832075722",
    "source": "adzuna",
    "posted_at": "2026-08-07",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-08-10",
+   "company": "Cognizant",
+   "title": "Business Analyst",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5834376437",
+   "source": "adzuna",
+   "posted_at": "2026-08-09",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-08-10",
+   "company": "Beyond Border Consultants",
+   "title": "Solar Project Manager (EPC/ 10-15 MW)",
+   "location": "New Delhi, Delhi",
+   "url": "https://www.adzuna.in/details/5835185050",
+   "source": "adzuna",
+   "posted_at": "2026-08-10",
    "active": "yes",
    "match_score": ""
   },
