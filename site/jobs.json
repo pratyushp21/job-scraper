@@ -1,6 +1,72 @@
 {
- "generated": "2026-08-15",
+ "generated": "2026-08-16",
  "jobs": [
+  {
+   "date_found": "2026-08-16",
+   "company": "Overture Rede",
+   "title": "SAP EWM Consultant",
+   "location": "Vasanthnagar, Bangalore",
+   "url": "https://www.adzuna.in/details/5840603187",
+   "source": "adzuna",
+   "posted_at": "2026-08-13",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-08-16",
+   "company": "Thermo Fisher Scientific",
+   "title": "PPI IT Project Manager",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/land/ad/5843137566",
+   "source": "adzuna",
+   "posted_at": "2026-08-15",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-08-16",
+   "company": "Are you in?",
+   "title": "Implementation Team Lead",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5788469487",
+   "source": "adzuna",
+   "posted_at": "2026-07-05",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-08-16",
+   "company": "EXL",
+   "title": "Business Analyst (IC)",
+   "location": "Noida, Ghaziabad",
+   "url": "https://www.adzuna.in/details/5841929569",
+   "source": "adzuna",
+   "posted_at": "2026-08-14",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-08-16",
+   "company": "HOLOSTIK",
+   "title": "Business Analyst Holostik",
+   "location": "Noida, Ghaziabad",
+   "url": "https://www.adzuna.in/details/5842613346",
+   "source": "adzuna",
+   "posted_at": "2026-08-15",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-08-15",
+   "company": "Scouit",
+   "title": "Business Analyst",
+   "location": "Delhi, India",
+   "url": "https://www.adzuna.in/details/5842550124",
+   "source": "adzuna",
+   "posted_at": "2026-08-15",
+   "active": "yes",
+   "match_score": ""
+  },
   {
    "date_found": "2026-08-15",
    "company": "Labcorp",
@@ -9,17 +75,6 @@
    "url": "https://www.adzuna.in/details/5841438781",
    "source": "adzuna",
    "posted_at": "2026-08-14",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-08-15",
-   "company": "Ara Resources Private Limited",
-   "title": "Project Manager",
-   "location": "Bangalore, Karnataka",
-   "url": "https://www.adzuna.in/details/5842569976",
-   "source": "adzuna",
-   "posted_at": "2026-08-15",
    "active": "yes",
    "match_score": ""
   },
@@ -48,9 +103,9 @@
   {
    "date_found": "2026-08-15",
    "company": "Ara Resources Private Limited",
-   "title": "Business Analyst",
+   "title": "Project Manager",
    "location": "Bangalore, Karnataka",
-   "url": "https://www.adzuna.in/details/5842569972",
+   "url": "https://www.adzuna.in/details/5842569976",
    "source": "adzuna",
    "posted_at": "2026-08-15",
    "active": "yes",
@@ -58,10 +113,10 @@
   },
   {
    "date_found": "2026-08-15",
-   "company": "Scouit",
+   "company": "Ara Resources Private Limited",
    "title": "Business Analyst",
-   "location": "Delhi, India",
-   "url": "https://www.adzuna.in/details/5842550124",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5842569972",
    "source": "adzuna",
    "posted_at": "2026-08-15",
    "active": "yes",
