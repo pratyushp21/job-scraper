@@ -1,13 +1,90 @@
 {
- "generated": "2026-09-11",
+ "generated": "2026-09-12",
  "jobs": [
   {
-   "date_found": "2026-09-11",
-   "company": "Swiggy",
+   "date_found": "2026-09-12",
+   "company": "GIVA",
+   "title": "Project Manager- South & East Region",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/land/ad/5879663005",
+   "source": "adzuna",
+   "posted_at": "2026-09-11",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-09-12",
+   "company": "VM HR Solutions",
+   "title": "Archviz Project Coordinator",
+   "location": "Delhi, India",
+   "url": "https://www.adzuna.in/land/ad/5879658500",
+   "source": "adzuna",
+   "posted_at": "2026-09-11",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-09-12",
+   "company": "Zyeta",
+   "title": "Project Manager",
+   "location": "Delhi, India",
+   "url": "https://www.adzuna.in/land/ad/5879658724",
+   "source": "adzuna",
+   "posted_at": "2026-09-11",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-09-12",
+   "company": "Magnon Group",
+   "title": "B2B Project Manager [5 to 7 years of creative production mandates experience is required]",
+   "location": "Noida, Ghaziabad",
+   "url": "https://www.adzuna.in/land/ad/5879664771",
+   "source": "adzuna",
+   "posted_at": "2026-09-11",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-09-12",
+   "company": "Cisco",
+   "title": "Project Manager",
+   "location": "New Delhi, Delhi",
+   "url": "https://www.adzuna.in/details/5880669330",
+   "source": "adzuna",
+   "posted_at": "2026-09-12",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-09-12",
+   "company": "Tesslogs IT Solutions",
+   "title": "Business Analyst (Enterprise Cyber Security Resilience )",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/land/ad/5879668991",
+   "source": "adzuna",
+   "posted_at": "2026-09-11",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-09-12",
+   "company": "Deutsche Bank",
+   "title": "SAP FI-CO Consultant - Associate",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/land/ad/5846723238",
+   "source": "adzuna",
+   "posted_at": "2026-08-18",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-09-12",
+   "company": "Acme Services Private Limited",
    "title": "Business Analyst",
-   "location": "Bengaluru, in",
-   "url": "https://jobs.smartrecruiters.com/Swiggy/6000000001399121",
-   "source": "smartrecruiters",
+   "location": "Richmond Town, Bangalore",
+   "url": "https://www.adzuna.in/details/5880049436",
+   "source": "adzuna",
    "posted_at": "2026-09-11",
    "active": "yes",
    "match_score": ""
@@ -25,11 +102,33 @@
   },
   {
    "date_found": "2026-09-11",
-   "company": "Mindtel",
-   "title": "Solar Project Coordinator (EPC/ MEGA WATT 80)",
-   "location": "New Delhi, Delhi",
-   "url": "https://www.adzuna.in/details/5879128932",
+   "company": "WSP USA",
+   "title": "Consultant - Project Management",
+   "location": "Noida, Ghaziabad",
+   "url": "https://www.adzuna.in/details/5878060916",
    "source": "adzuna",
+   "posted_at": "2026-09-10",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-09-11",
+   "company": "Vehant Technologies",
+   "title": "Project Manager",
+   "location": "Noida, Ghaziabad",
+   "url": "https://www.adzuna.in/details/5879144057",
+   "source": "adzuna",
+   "posted_at": "2026-09-11",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-09-11",
+   "company": "Swiggy",
+   "title": "Business Analyst",
+   "location": "Bengaluru, in",
+   "url": "https://jobs.smartrecruiters.com/Swiggy/6000000001399121",
+   "source": "smartrecruiters",
    "posted_at": "2026-09-11",
    "active": "yes",
    "match_score": ""
@@ -47,17 +146,6 @@
   },
   {
    "date_found": "2026-09-11",
-   "company": "Vehant Technologies",
-   "title": "Project Manager",
-   "location": "Noida, Ghaziabad",
-   "url": "https://www.adzuna.in/details/5879144057",
-   "source": "adzuna",
-   "posted_at": "2026-09-11",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-09-11",
    "company": "SE2",
    "title": "Project Manager",
    "location": "Noida, Ghaziabad",
@@ -69,12 +157,12 @@
   },
   {
    "date_found": "2026-09-11",
-   "company": "WSP USA",
-   "title": "Consultant - Project Management",
-   "location": "Noida, Ghaziabad",
-   "url": "https://www.adzuna.in/details/5878060916",
+   "company": "Mindtel",
+   "title": "Solar Project Coordinator (EPC/ MEGA WATT 80)",
+   "location": "New Delhi, Delhi",
+   "url": "https://www.adzuna.in/details/5879128932",
    "source": "adzuna",
-   "posted_at": "2026-09-10",
+   "posted_at": "2026-09-11",
    "active": "yes",
    "match_score": ""
   },
@@ -2869,17 +2957,6 @@
    "url": "https://www.adzuna.in/details/5850345216",
    "source": "adzuna",
    "posted_at": "2026-08-21",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-08-25",
-   "company": "Razorpay",
-   "title": "Senior Solutions Consultant",
-   "location": "Bengaluru",
-   "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4726829005",
-   "source": "greenhouse",
-   "posted_at": "2026-08-24",
    "active": "yes",
    "match_score": ""
   },
