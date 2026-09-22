@@ -1,47 +1,14 @@
 {
- "generated": "2026-09-21",
+ "generated": "2026-09-22",
  "jobs": [
   {
-   "date_found": "2026-09-21",
-   "company": "Meesho",
-   "title": "Project Manager- Warehouse Automation",
+   "date_found": "2026-09-22",
+   "company": "Kyndryl",
+   "title": "Project Manager",
    "location": "Bangalore, Karnataka",
-   "url": "https://jobs.lever.co/meesho/113ff930-b5bf-42c7-a07d-aa66a9de89d9",
-   "source": "lever",
-   "posted_at": "",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-09-21",
-   "company": "DeArc Studio - Luxury Home Interiors in Bengaluru",
-   "title": "Interior Estimation & Project Coordinator",
-   "location": "Bangalore, Karnataka",
-   "url": "https://www.adzuna.in/land/ad/5891692097",
+   "url": "https://www.adzuna.in/land/ad/5893512624",
    "source": "adzuna",
-   "posted_at": "2026-09-20",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-09-21",
-   "company": "3M",
-   "title": "Enterprise Supply Chain Project Coordinator",
-   "location": "Bangalore, Karnataka",
-   "url": "https://www.adzuna.in/details/5892380616",
-   "source": "adzuna",
-   "posted_at": "2026-09-21",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-09-21",
-   "company": "Police Foundation and Institute, India",
-   "title": "Assistant Project Coordinator- (Research)/Senior Researcher - Delhi",
-   "location": "New Delhi, Delhi",
-   "url": "https://www.adzuna.in/land/ad/5891690419",
-   "source": "adzuna",
-   "posted_at": "2026-09-20",
+   "posted_at": "2026-09-22",
    "active": "yes",
    "match_score": ""
   },
@@ -58,12 +25,23 @@
   },
   {
    "date_found": "2026-09-21",
-   "company": "GyanSys Inc.",
-   "title": "Project Manager AI/ML",
-   "location": "Bangalore, Karnataka",
-   "url": "https://www.adzuna.in/land/ad/5891690329",
+   "company": "Police Foundation and Institute, India",
+   "title": "Assistant Project Coordinator- (Research)/Senior Researcher - Delhi",
+   "location": "New Delhi, Delhi",
+   "url": "https://www.adzuna.in/land/ad/5891690419",
    "source": "adzuna",
    "posted_at": "2026-09-20",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-09-21",
+   "company": "Paytm",
+   "title": "Business Analyst - Assistant Manager - Lending",
+   "location": "Noida, Ghaziabad",
+   "url": "https://www.adzuna.in/details/5890781662",
+   "source": "adzuna",
+   "posted_at": "2026-09-19",
    "active": "yes",
    "match_score": ""
   },
@@ -75,6 +53,17 @@
    "url": "https://www.adzuna.in/land/ad/5891690152",
    "source": "adzuna",
    "posted_at": "2026-09-20",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-09-21",
+   "company": "Meesho",
+   "title": "Project Manager- Warehouse Automation",
+   "location": "Bangalore, Karnataka",
+   "url": "https://jobs.lever.co/meesho/113ff930-b5bf-42c7-a07d-aa66a9de89d9",
+   "source": "lever",
+   "posted_at": "",
    "active": "yes",
    "match_score": ""
   },
@@ -102,12 +91,34 @@
   },
   {
    "date_found": "2026-09-21",
-   "company": "Paytm",
-   "title": "Business Analyst - Assistant Manager - Lending",
-   "location": "Noida, Ghaziabad",
-   "url": "https://www.adzuna.in/details/5890781662",
+   "company": "GyanSys Inc.",
+   "title": "Project Manager AI/ML",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/land/ad/5891690329",
    "source": "adzuna",
-   "posted_at": "2026-09-19",
+   "posted_at": "2026-09-20",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-09-21",
+   "company": "DeArc Studio - Luxury Home Interiors in Bengaluru",
+   "title": "Interior Estimation & Project Coordinator",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/land/ad/5891692097",
+   "source": "adzuna",
+   "posted_at": "2026-09-20",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-09-21",
+   "company": "3M",
+   "title": "Enterprise Supply Chain Project Coordinator",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5892380616",
+   "source": "adzuna",
+   "posted_at": "2026-09-21",
    "active": "yes",
    "match_score": ""
   },
@@ -1515,17 +1526,6 @@
    "location": "Noida, Ghaziabad",
    "url": "https://www.adzuna.in/details/5879144057",
    "source": "adzuna",
-   "posted_at": "2026-09-11",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-09-11",
-   "company": "Swiggy",
-   "title": "Business Analyst",
-   "location": "Bengaluru, in",
-   "url": "https://jobs.smartrecruiters.com/Swiggy/6000000001399121",
-   "source": "smartrecruiters",
    "posted_at": "2026-09-11",
    "active": "yes",
    "match_score": ""
@@ -7786,17 +7786,6 @@
    "url": "https://www.adzuna.in/details/5730904513",
    "source": "adzuna",
    "posted_at": "2026-05-16",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-07-28",
-   "company": "ServiceNow",
-   "title": "Advisory Solution Consultant - BFSI",
-   "location": "Bangalore, in",
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000140146489",
-   "source": "smartrecruiters",
-   "posted_at": "2026-07-28",
    "active": "yes",
    "match_score": ""
   },
