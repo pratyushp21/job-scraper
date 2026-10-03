@@ -1,6 +1,50 @@
 {
- "generated": "2026-10-02",
+ "generated": "2026-10-03",
  "jobs": [
+  {
+   "date_found": "2026-10-03",
+   "company": "CAI",
+   "title": "Project Coordinator",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5908397130",
+   "source": "adzuna",
+   "posted_at": "2026-10-02",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-03",
+   "company": "Deutsche Bank",
+   "title": "SAP FICO Consultant",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/land/ad/5894389842",
+   "source": "adzuna",
+   "posted_at": "2026-09-23",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-02",
+   "company": "WIN Home Inspection",
+   "title": "Technical Project Manager",
+   "location": "Noida, Ghaziabad",
+   "url": "https://www.adzuna.in/details/5905878699",
+   "source": "adzuna",
+   "posted_at": "2026-10-01",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-02",
+   "company": "VY SYSTEMS PRIVATE LIMITED",
+   "title": "IT Infrastructure Project Manager",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5905444196",
+   "source": "adzuna",
+   "posted_at": "2026-10-01",
+   "active": "yes",
+   "match_score": ""
+  },
   {
    "date_found": "2026-10-02",
    "company": "ServiceNow",
@@ -25,10 +69,32 @@
   },
   {
    "date_found": "2026-10-02",
-   "company": "VY SYSTEMS PRIVATE LIMITED",
-   "title": "IT Infrastructure Project Manager",
-   "location": "Bangalore, Karnataka",
-   "url": "https://www.adzuna.in/details/5905444196",
+   "company": "Paytm",
+   "title": "Business Analyst - Assistant Manager - Lending",
+   "location": "Noida, Ghaziabad",
+   "url": "https://www.adzuna.in/details/5905916367",
+   "source": "adzuna",
+   "posted_at": "2026-10-01",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-02",
+   "company": "NTT America, Inc.",
+   "title": "Associate Consultant - Techno-Functional Business Analyst",
+   "location": "Noida, Ghaziabad",
+   "url": "https://www.adzuna.in/details/5907467408",
+   "source": "adzuna",
+   "posted_at": "2026-10-02",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-02",
+   "company": "NTT America, Inc.",
+   "title": "ServiceNow Business Analyst",
+   "location": "Delhi, India",
+   "url": "https://www.adzuna.in/details/5904970829",
    "source": "adzuna",
    "posted_at": "2026-10-01",
    "active": "yes",
@@ -64,50 +130,6 @@
    "url": "https://www.adzuna.in/land/ad/5902562427",
    "source": "adzuna",
    "posted_at": "2026-09-29",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-10-02",
-   "company": "WIN Home Inspection",
-   "title": "Technical Project Manager",
-   "location": "Noida, Ghaziabad",
-   "url": "https://www.adzuna.in/details/5905878699",
-   "source": "adzuna",
-   "posted_at": "2026-10-01",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-10-02",
-   "company": "Paytm",
-   "title": "Business Analyst - Assistant Manager - Lending",
-   "location": "Noida, Ghaziabad",
-   "url": "https://www.adzuna.in/details/5905916367",
-   "source": "adzuna",
-   "posted_at": "2026-10-01",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-10-02",
-   "company": "NTT America, Inc.",
-   "title": "Associate Consultant - Techno-Functional Business Analyst",
-   "location": "Noida, Ghaziabad",
-   "url": "https://www.adzuna.in/details/5907467408",
-   "source": "adzuna",
-   "posted_at": "2026-10-02",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-10-02",
-   "company": "NTT America, Inc.",
-   "title": "ServiceNow Business Analyst",
-   "location": "Delhi, India",
-   "url": "https://www.adzuna.in/details/5904970829",
-   "source": "adzuna",
-   "posted_at": "2026-10-01",
    "active": "yes",
    "match_score": ""
   },
