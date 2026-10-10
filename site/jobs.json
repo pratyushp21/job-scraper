@@ -1,6 +1,39 @@
 {
- "generated": "2026-10-09",
+ "generated": "2026-10-10",
  "jobs": [
+  {
+   "date_found": "2026-10-10",
+   "company": "Natwest Group",
+   "title": "Business Analyst",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5921010148",
+   "source": "adzuna",
+   "posted_at": "2026-10-09",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-10",
+   "company": "Moody's",
+   "title": "Business Analyst",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5920914894",
+   "source": "adzuna",
+   "posted_at": "2026-10-09",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-10",
+   "company": "ERM",
+   "title": "Business Analyst - Knowledge Management",
+   "location": "Delhi, India",
+   "url": "https://www.adzuna.in/details/5920969689",
+   "source": "adzuna",
+   "posted_at": "2026-10-09",
+   "active": "yes",
+   "match_score": ""
+  },
   {
    "date_found": "2026-10-09",
    "company": "Zenoti",
@@ -8,6 +41,39 @@
    "location": "Hyderabad, Telangana, India",
    "url": "https://job-boards.greenhouse.io/zenoti/jobs/7853098003",
    "source": "greenhouse",
+   "posted_at": "2026-10-09",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-09",
+   "company": "SWIGGY",
+   "title": "Business Analyst",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5918768570",
+   "source": "adzuna",
+   "posted_at": "2026-10-08",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-09",
+   "company": "Paytm Payments Services",
+   "title": "Business Analyst - AM/DM - Noida",
+   "location": "Noida, Ghaziabad",
+   "url": "https://www.adzuna.in/details/5919352857",
+   "source": "adzuna",
+   "posted_at": "2026-10-08",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-09",
+   "company": "OneAdvanced",
+   "title": "Business Analyst",
+   "location": "Austin Town, Bangalore",
+   "url": "https://www.adzuna.in/details/5920182472",
+   "source": "adzuna",
    "posted_at": "2026-10-09",
    "active": "yes",
    "match_score": ""
@@ -47,28 +113,6 @@
   },
   {
    "date_found": "2026-10-09",
-   "company": "Boostability",
-   "title": "Independent Contractor - Website Implementation Specialist",
-   "location": "Bangalore, Karnataka",
-   "url": "https://www.adzuna.in/details/5918771921",
-   "source": "adzuna",
-   "posted_at": "2026-10-08",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-10-09",
-   "company": "SWIGGY",
-   "title": "Business Analyst",
-   "location": "Bangalore, Karnataka",
-   "url": "https://www.adzuna.in/details/5918768570",
-   "source": "adzuna",
-   "posted_at": "2026-10-08",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-10-09",
    "company": "Creeno Solutions Private Limited",
    "title": "Business Analyst",
    "location": "Bangalore, Karnataka",
@@ -80,21 +124,10 @@
   },
   {
    "date_found": "2026-10-09",
-   "company": "OneAdvanced",
-   "title": "Business Analyst",
-   "location": "Austin Town, Bangalore",
-   "url": "https://www.adzuna.in/details/5920182472",
-   "source": "adzuna",
-   "posted_at": "2026-10-09",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-10-09",
-   "company": "Paytm Payments Services",
-   "title": "Business Analyst - AM/DM - Noida",
-   "location": "Noida, Ghaziabad",
-   "url": "https://www.adzuna.in/details/5919352857",
+   "company": "Boostability",
+   "title": "Independent Contractor - Website Implementation Specialist",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5918771921",
    "source": "adzuna",
    "posted_at": "2026-10-08",
    "active": "yes",
