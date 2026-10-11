@@ -1,6 +1,160 @@
 {
- "generated": "2026-10-10",
+ "generated": "2026-10-11",
  "jobs": [
+  {
+   "date_found": "2026-10-11",
+   "company": "WSP",
+   "title": "Project Manager",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5922417431",
+   "source": "adzuna",
+   "posted_at": "2026-10-10",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-11",
+   "company": "IRP Systems",
+   "title": "Project Manager",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5922418251",
+   "source": "adzuna",
+   "posted_at": "2026-10-10",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-11",
+   "company": "WSP USA",
+   "title": "Project Manager",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5921760455",
+   "source": "adzuna",
+   "posted_at": "2026-10-10",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-11",
+   "company": "skysecure",
+   "title": "Project manager",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5920453040",
+   "source": "adzuna",
+   "posted_at": "2026-10-09",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-11",
+   "company": "IBM",
+   "title": "Project Manager",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5922791699",
+   "source": "adzuna",
+   "posted_at": "2026-10-11",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-11",
+   "company": "InfowebUSA",
+   "title": "Project Manager",
+   "location": "Noida, Ghaziabad",
+   "url": "https://www.adzuna.in/details/5920453993",
+   "source": "adzuna",
+   "posted_at": "2026-10-09",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-11",
+   "company": "WSP USA",
+   "title": "Project Manager",
+   "location": "Noida, Ghaziabad",
+   "url": "https://www.adzuna.in/details/5921760472",
+   "source": "adzuna",
+   "posted_at": "2026-10-10",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-11",
+   "company": "WSP USA",
+   "title": "Senior Project Manager",
+   "location": "Noida, Ghaziabad",
+   "url": "https://www.adzuna.in/details/5921760473",
+   "source": "adzuna",
+   "posted_at": "2026-10-10",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-11",
+   "company": "Weekday AI",
+   "title": "Implementation Specialist",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5921982420",
+   "source": "adzuna",
+   "posted_at": "2026-10-10",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-11",
+   "company": "LTM",
+   "title": "Senior Specialist - Package Implementation",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5922791549",
+   "source": "adzuna",
+   "posted_at": "2026-10-11",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-11",
+   "company": "ProPMO Services Private Limited",
+   "title": "Business Analyst",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5922057803",
+   "source": "adzuna",
+   "posted_at": "2026-10-10",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-11",
+   "company": "Foundit",
+   "title": "Business Analyst",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5922791764",
+   "source": "adzuna",
+   "posted_at": "2026-10-11",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-11",
+   "company": "Caterpillar",
+   "title": "Business Analyst",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5922379468",
+   "source": "adzuna",
+   "posted_at": "2026-10-10",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-11",
+   "company": "Topcoder",
+   "title": "Fiduciary Business Analyst",
+   "location": "Noida, Ghaziabad",
+   "url": "https://www.adzuna.in/details/5922370881",
+   "source": "adzuna",
+   "posted_at": "2026-10-10",
+   "active": "yes",
+   "match_score": ""
+  },
   {
    "date_found": "2026-10-10",
    "company": "Natwest Group",
