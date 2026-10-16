@@ -1,13 +1,79 @@
 {
- "generated": "2026-10-15",
+ "generated": "2026-10-16",
  "jobs": [
   {
+   "date_found": "2026-10-16",
+   "company": "Clari5 - A Perfios Company",
+   "title": "Project Manager",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5929853944",
+   "source": "adzuna",
+   "posted_at": "2026-10-16",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-16",
+   "company": "Thomson Reuters",
+   "title": "Project Manager",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5929213084",
+   "source": "adzuna",
+   "posted_at": "2026-10-15",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-16",
+   "company": "AgileEngine",
+   "title": "Senior Business Analyst ID95641",
+   "location": "Noida, Ghaziabad",
+   "url": "https://www.adzuna.in/details/5929906389",
+   "source": "adzuna",
+   "posted_at": "2026-10-16",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-16",
+   "company": "AgileEngine",
+   "title": "Senior Business Analyst ID95641",
+   "location": "Sansad Marg, New Delhi",
+   "url": "https://www.adzuna.in/details/5929906439",
+   "source": "adzuna",
+   "posted_at": "2026-10-16",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
    "date_found": "2026-10-15",
-   "company": "Razorpay",
-   "title": "Senior Solutions Consultant",
-   "location": "Bengaluru",
-   "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4737523005",
-   "source": "greenhouse",
+   "company": "Toolyt",
+   "title": "Business Analyst",
+   "location": "Richmond Town, Bangalore",
+   "url": "https://www.adzuna.in/details/5928473486",
+   "source": "adzuna",
+   "posted_at": "2026-10-15",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-15",
+   "company": "Roche",
+   "title": "Disease Area Project Management Partner",
+   "location": "New Delhi, Delhi",
+   "url": "https://www.adzuna.in/details/5928584080",
+   "source": "adzuna",
+   "posted_at": "2026-10-15",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-15",
+   "company": "Rezo.ai",
+   "title": "Senior Business Analyst",
+   "location": "Noida, Ghaziabad",
+   "url": "https://www.adzuna.in/details/5928019596",
+   "source": "adzuna",
    "posted_at": "2026-10-15",
    "active": "yes",
    "match_score": ""
@@ -20,28 +86,6 @@
    "url": "https://www.adzuna.in/details/5922945217",
    "source": "adzuna",
    "posted_at": "2026-10-11",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-10-15",
-   "company": "Aarush Impact",
-   "title": "Technical Program Associate (Project coordinator)- AI & IT",
-   "location": "Bangalore, Karnataka",
-   "url": "https://www.adzuna.in/details/5927319727",
-   "source": "adzuna",
-   "posted_at": "2026-10-14",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-10-15",
-   "company": "Roche",
-   "title": "Disease Area Project Management Partner",
-   "location": "New Delhi, Delhi",
-   "url": "https://www.adzuna.in/details/5928584080",
-   "source": "adzuna",
-   "posted_at": "2026-10-15",
    "active": "yes",
    "match_score": ""
   },
@@ -69,23 +113,12 @@
   },
   {
    "date_found": "2026-10-15",
-   "company": "Toolyt",
-   "title": "Business Analyst",
-   "location": "Richmond Town, Bangalore",
-   "url": "https://www.adzuna.in/details/5928473486",
+   "company": "Aarush Impact",
+   "title": "Technical Program Associate (Project coordinator)- AI & IT",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5927319727",
    "source": "adzuna",
-   "posted_at": "2026-10-15",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-10-15",
-   "company": "Rezo.ai",
-   "title": "Senior Business Analyst",
-   "location": "Noida, Ghaziabad",
-   "url": "https://www.adzuna.in/details/5928019596",
-   "source": "adzuna",
-   "posted_at": "2026-10-15",
+   "posted_at": "2026-10-14",
    "active": "yes",
    "match_score": ""
   },
@@ -206,17 +239,6 @@
    "location": "Richmond Town, Bangalore",
    "url": "https://www.adzuna.in/details/5924576028",
    "source": "adzuna",
-   "posted_at": "2026-10-12",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-10-13",
-   "company": "Razorpay",
-   "title": "Technical Consultant",
-   "location": "Bengaluru",
-   "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4738819005",
-   "source": "greenhouse",
    "posted_at": "2026-10-12",
    "active": "yes",
    "match_score": ""
