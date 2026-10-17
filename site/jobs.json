@@ -1,14 +1,124 @@
 {
- "generated": "2026-10-16",
+ "generated": "2026-10-17",
  "jobs": [
   {
-   "date_found": "2026-10-16",
-   "company": "Clari5 - A Perfios Company",
-   "title": "Project Manager",
+   "date_found": "2026-10-17",
+   "company": "ARUP",
+   "title": "Project Coordinator",
    "location": "Bangalore, Karnataka",
-   "url": "https://www.adzuna.in/details/5929853944",
+   "url": "https://www.adzuna.in/land/ad/5931027151",
    "source": "adzuna",
    "posted_at": "2026-10-16",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-17",
+   "company": "TE Connectivity",
+   "title": "STAFF PROJECT MANAGER ENGINEER",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/land/ad/5930225909",
+   "source": "adzuna",
+   "posted_at": "2026-10-16",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-17",
+   "company": "ABB",
+   "title": "ABB Talent Pool - Project Manager / Associate Project Manager / Senior Project Manager",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/land/ad/5931624219",
+   "source": "adzuna",
+   "posted_at": "2026-10-17",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-17",
+   "company": "ABB",
+   "title": "Talent Pool - IS - Project manager / Program Manager / Project/Program Lead / Senior Project Manager",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/land/ad/5931624226",
+   "source": "adzuna",
+   "posted_at": "2026-10-17",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-17",
+   "company": "Zones, LLC",
+   "title": "Project Manager",
+   "location": "Noida, Ghaziabad",
+   "url": "https://www.adzuna.in/details/5930115731",
+   "source": "adzuna",
+   "posted_at": "2026-10-16",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-17",
+   "company": "EXL",
+   "title": "Project Manager-Agentic AI experienced Project Management-Overall Project Management",
+   "location": "Noida, Ghaziabad",
+   "url": "https://www.adzuna.in/details/5930838572",
+   "source": "adzuna",
+   "posted_at": "2026-10-16",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-17",
+   "company": "Iassess Consultants",
+   "title": "Project Manager - JG",
+   "location": "Noida, Ghaziabad",
+   "url": "https://www.adzuna.in/details/5931461516",
+   "source": "adzuna",
+   "posted_at": "2026-10-17",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-17",
+   "company": "OneTrust",
+   "title": "Technical Specialist - Implementation",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5930836365",
+   "source": "adzuna",
+   "posted_at": "2026-10-16",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-17",
+   "company": "UnitedHealth Group",
+   "title": "Senior Business Analyst",
+   "location": "Noida, Ghaziabad",
+   "url": "https://www.adzuna.in/details/5930115253",
+   "source": "adzuna",
+   "posted_at": "2026-10-16",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-17",
+   "company": "Vrinda International",
+   "title": "BUSINESS ANALYST",
+   "location": "Delhi, India",
+   "url": "https://www.adzuna.in/details/5931146800",
+   "source": "adzuna",
+   "posted_at": "2026-10-17",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-17",
+   "company": "AlphaSense",
+   "title": "Business Analyst II",
+   "location": "Delhi, India",
+   "url": "https://www.adzuna.in/details/5920994009",
+   "source": "adzuna",
+   "posted_at": "2026-10-09",
    "active": "yes",
    "match_score": ""
   },
@@ -20,6 +130,17 @@
    "url": "https://www.adzuna.in/details/5929213084",
    "source": "adzuna",
    "posted_at": "2026-10-15",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-16",
+   "company": "Clari5 - A Perfios Company",
+   "title": "Project Manager",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5929853944",
+   "source": "adzuna",
+   "posted_at": "2026-10-16",
    "active": "yes",
    "match_score": ""
   },
