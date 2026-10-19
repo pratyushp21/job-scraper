@@ -1,6 +1,39 @@
 {
- "generated": "2026-10-18",
+ "generated": "2026-10-19",
  "jobs": [
+  {
+   "date_found": "2026-10-19",
+   "company": "Arting Digital Private Limited",
+   "title": "French Project Coordinator",
+   "location": "Cahmrajendrapet, Bangalore",
+   "url": "https://www.adzuna.in/details/5933920733",
+   "source": "adzuna",
+   "posted_at": "2026-10-19",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-19",
+   "company": "Cognizant",
+   "title": "Business Analyst",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5933018248",
+   "source": "adzuna",
+   "posted_at": "2026-10-18",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-18",
+   "company": "Tudip Technologies",
+   "title": "Business Analyst",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5869817165",
+   "source": "adzuna",
+   "posted_at": "2026-09-04",
+   "active": "yes",
+   "match_score": ""
+  },
   {
    "date_found": "2026-10-18",
    "company": "TE Connectivity",
@@ -9,6 +42,28 @@
    "url": "https://www.adzuna.in/land/ad/5932646462",
    "source": "adzuna",
    "posted_at": "2026-10-18",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-18",
+   "company": "Rajesh Kumar ",
+   "title": "Project Manager - Enterprise ZTNA Managed Services",
+   "location": "Delhi, India",
+   "url": "https://www.adzuna.in/details/5932787782",
+   "source": "adzuna",
+   "posted_at": "2026-10-18",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-18",
+   "company": "NTT America, Inc.",
+   "title": "Senior Business Analyst - nCino",
+   "location": "Noida, Ghaziabad",
+   "url": "https://www.adzuna.in/details/5931776550",
+   "source": "adzuna",
+   "posted_at": "2026-10-17",
    "active": "yes",
    "match_score": ""
   },
@@ -29,39 +84,6 @@
    "title": "Project Manager (Cyber)",
    "location": "Chandni Chowk, North Delhi",
    "url": "https://www.adzuna.in/details/5932545852",
-   "source": "adzuna",
-   "posted_at": "2026-10-17",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-10-18",
-   "company": "Rajesh Kumar ",
-   "title": "Project Manager - Enterprise ZTNA Managed Services",
-   "location": "Delhi, India",
-   "url": "https://www.adzuna.in/details/5932787782",
-   "source": "adzuna",
-   "posted_at": "2026-10-18",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-10-18",
-   "company": "Tudip Technologies",
-   "title": "Business Analyst",
-   "location": "Bangalore, Karnataka",
-   "url": "https://www.adzuna.in/details/5869817165",
-   "source": "adzuna",
-   "posted_at": "2026-09-04",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-10-18",
-   "company": "NTT America, Inc.",
-   "title": "Senior Business Analyst - nCino",
-   "location": "Noida, Ghaziabad",
-   "url": "https://www.adzuna.in/details/5931776550",
    "source": "adzuna",
    "posted_at": "2026-10-17",
    "active": "yes",
