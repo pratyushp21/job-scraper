@@ -1,6 +1,50 @@
 {
- "generated": "2026-10-26",
+ "generated": "2026-10-27",
  "jobs": [
+  {
+   "date_found": "2026-10-27",
+   "company": "GeekSoft Consulting",
+   "title": "C4C Business Analyst",
+   "location": "Richmond Town, Bangalore",
+   "url": "https://www.adzuna.in/details/5914331251",
+   "source": "adzuna",
+   "posted_at": "2026-10-07",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-27",
+   "company": "Corporate Professionals",
+   "title": "Business Analyst - Tech Background",
+   "location": "Gulmohar Park, South Delhi",
+   "url": "https://www.adzuna.in/details/5943126985",
+   "source": "adzuna",
+   "posted_at": "2026-10-27",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-27",
+   "company": "J.S. Held LLC",
+   "title": "Founding Member, Senior Digital Solutions Consultant (Delhi NCR - Hybrid)",
+   "location": "Delhi, India",
+   "url": "https://www.adzuna.in/details/5942783358",
+   "source": "adzuna",
+   "posted_at": "2026-10-27",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-10-26",
+   "company": "WSP USA",
+   "title": "Senior Consultant - Project Management",
+   "location": "Noida, Ghaziabad",
+   "url": "https://www.adzuna.in/details/5941184677",
+   "source": "adzuna",
+   "posted_at": "2026-10-25",
+   "active": "yes",
+   "match_score": ""
+  },
   {
    "date_found": "2026-10-26",
    "company": "Swiggy",
@@ -25,17 +69,6 @@
   },
   {
    "date_found": "2026-10-26",
-   "company": "3M",
-   "title": "Enterprise Supply Chain Project Coordinator",
-   "location": "Bangalore, Karnataka",
-   "url": "https://www.adzuna.in/details/5941180491",
-   "source": "adzuna",
-   "posted_at": "2026-10-25",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-10-26",
    "company": "Insight Global",
    "title": "Project Manager",
    "location": "Bangalore, Karnataka",
@@ -47,10 +80,10 @@
   },
   {
    "date_found": "2026-10-26",
-   "company": "WSP USA",
-   "title": "Senior Consultant - Project Management",
-   "location": "Noida, Ghaziabad",
-   "url": "https://www.adzuna.in/details/5941184677",
+   "company": "Actide International",
+   "title": "AI & Software Implementation",
+   "location": "Delhi, India",
+   "url": "https://www.adzuna.in/details/5941585642",
    "source": "adzuna",
    "posted_at": "2026-10-25",
    "active": "yes",
@@ -58,10 +91,10 @@
   },
   {
    "date_found": "2026-10-26",
-   "company": "Actide International",
-   "title": "AI & Software Implementation",
-   "location": "Delhi, India",
-   "url": "https://www.adzuna.in/details/5941585642",
+   "company": "3M",
+   "title": "Enterprise Supply Chain Project Coordinator",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5941180491",
    "source": "adzuna",
    "posted_at": "2026-10-25",
    "active": "yes",
