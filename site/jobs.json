@@ -1,6 +1,17 @@
 {
- "generated": "2026-11-02",
+ "generated": "2026-11-03",
  "jobs": [
+  {
+   "date_found": "2026-11-03",
+   "company": "DeepSource Technologies",
+   "title": "IAM Business Analyst (SailPoint) - Riyadh, KSA",
+   "location": "New Delhi, Delhi",
+   "url": "https://www.adzuna.in/details/5950495688",
+   "source": "adzuna",
+   "posted_at": "2026-11-02",
+   "active": "yes",
+   "match_score": ""
+  },
   {
    "date_found": "2026-11-02",
    "company": "Clario",
@@ -262,17 +273,6 @@
    "url": "https://www.adzuna.in/details/5945912650",
    "source": "adzuna",
    "posted_at": "2026-10-29",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-10-30",
-   "company": "Razorpay",
-   "title": "Senior Business Analyst",
-   "location": "Bengaluru",
-   "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736959005",
-   "source": "greenhouse",
-   "posted_at": "2026-10-30",
    "active": "yes",
    "match_score": ""
   },
