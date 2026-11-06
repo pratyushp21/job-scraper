@@ -1,6 +1,72 @@
 {
- "generated": "2026-11-05",
+ "generated": "2026-11-06",
  "jobs": [
+  {
+   "date_found": "2026-11-06",
+   "company": "ERM",
+   "title": "Consultant - ESG Reporting & Disclosures",
+   "location": "Delhi, India",
+   "url": "https://www.adzuna.in/details/5954471968",
+   "source": "adzuna",
+   "posted_at": "2026-11-05",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-11-06",
+   "company": "J&F",
+   "title": "Technical Project Manager",
+   "location": "Noida, Ghaziabad",
+   "url": "https://www.adzuna.in/details/5954233069",
+   "source": "adzuna",
+   "posted_at": "2026-11-05",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-11-06",
+   "company": "Mepa2z Llp",
+   "title": "Civil Engineer / Project Manager \u2013 Construction Projects",
+   "location": "Noida, Ghaziabad",
+   "url": "https://www.adzuna.in/details/5944001636",
+   "source": "adzuna",
+   "posted_at": "2026-10-28",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-11-06",
+   "company": "Tap Growth ai",
+   "title": "Business Analyst",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5954312535",
+   "source": "adzuna",
+   "posted_at": "2026-11-05",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-11-06",
+   "company": "ECI",
+   "title": "Business Analyst",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5954312513",
+   "source": "adzuna",
+   "posted_at": "2026-11-05",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-11-06",
+   "company": "IQVIA",
+   "title": "Business Analyst",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5955404740",
+   "source": "adzuna",
+   "posted_at": "2026-11-06",
+   "active": "yes",
+   "match_score": ""
+  },
   {
    "date_found": "2026-11-05",
    "company": "WSP",
@@ -25,45 +91,12 @@
   },
   {
    "date_found": "2026-11-05",
-   "company": "ERM",
-   "title": "PMO Senior Consultant",
-   "location": "Delhi, India",
-   "url": "https://www.adzuna.in/details/5932383786",
-   "source": "adzuna",
-   "posted_at": "2026-10-17",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-11-05",
-   "company": "LTM",
-   "title": "Specialist - Package Implementation",
-   "location": "Bangalore, Karnataka",
-   "url": "https://www.adzuna.in/details/5953664894",
-   "source": "adzuna",
-   "posted_at": "2026-11-05",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-11-05",
    "company": "RADcube - A NLogix Company",
    "title": "Business Analyst",
    "location": "Kenchanahalli, Bangalore",
    "url": "https://www.adzuna.in/details/5953804207",
    "source": "adzuna",
    "posted_at": "2026-11-05",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-11-05",
-   "company": "Cognizant",
-   "title": "Sr. Business Analyst",
-   "location": "Bangalore, Karnataka",
-   "url": "https://www.adzuna.in/details/5922943827",
-   "source": "adzuna",
-   "posted_at": "2026-10-11",
    "active": "yes",
    "match_score": ""
   },
@@ -86,6 +119,39 @@
    "url": "https://www.adzuna.in/details/5952913969",
    "source": "adzuna",
    "posted_at": "2026-11-04",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-11-05",
+   "company": "LTM",
+   "title": "Specialist - Package Implementation",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5953664894",
+   "source": "adzuna",
+   "posted_at": "2026-11-05",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-11-05",
+   "company": "ERM",
+   "title": "PMO Senior Consultant",
+   "location": "Delhi, India",
+   "url": "https://www.adzuna.in/details/5932383786",
+   "source": "adzuna",
+   "posted_at": "2026-10-17",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-11-05",
+   "company": "Cognizant",
+   "title": "Sr. Business Analyst",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5922943827",
+   "source": "adzuna",
+   "posted_at": "2026-10-11",
    "active": "yes",
    "match_score": ""
   },
@@ -4012,17 +4078,6 @@
    "location": "Bangalore, Karnataka",
    "url": "https://www.adzuna.in/land/ad/5895599767",
    "source": "adzuna",
-   "posted_at": "2026-09-24",
-   "active": "yes",
-   "match_score": ""
-  },
-  {
-   "date_found": "2026-09-24",
-   "company": "Zenoti",
-   "title": "Senior Product Specialist - Implementation/Onboarding",
-   "location": "Hyderabad, Telangana, India",
-   "url": "https://job-boards.greenhouse.io/zenoti/jobs/7990656003",
-   "source": "greenhouse",
    "posted_at": "2026-09-24",
    "active": "yes",
    "match_score": ""
@@ -16784,6 +16839,17 @@
    "url": "https://job-boards.greenhouse.io/zenoti/jobs/7747999003",
    "source": "greenhouse",
    "posted_at": "2026-06-24",
+   "active": "yes",
+   "match_score": ""
+  },
+  {
+   "date_found": "2026-07-18",
+   "company": "Zenoti",
+   "title": "Senior Product Specialist - Customer Onboarding",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://job-boards.greenhouse.io/zenoti/jobs/7608201003",
+   "source": "greenhouse",
+   "posted_at": "2026-06-09",
    "active": "yes",
    "match_score": ""
   },
